@@ -1,5 +1,5 @@
 # 911-calls-project
-Analysis of 911 calls from som 911 call data from Kaggle
+Analysis of 911 calls from some 911 call data from Kaggle
 In this project we will be going through various visualisation techniques in python using ipython notebooks 
 Following are the variables in ths dataset and they are explained below :
 
