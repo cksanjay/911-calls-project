@@ -12,3 +12,5 @@ Following are the variables in ths dataset and they are explained below :
 ### twp: String variable, Township
 ### addr: String variable, Address
 ### e: String variable, Dummy variable (always 1)
+
+*Note: This project is based on a course which I took on udemy(https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/).
